@@ -39,7 +39,6 @@
 			본인소개 : <br>
 			<textarea name="introduction" rows="3" cols="50"></textarea>
 			<hr>
-			
 		<div align="center">
 		<input type="submit" value="가입하기"> &nbsp;&nbsp;
 		<input type="reset" value="다시작성">
