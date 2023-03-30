@@ -35,7 +35,7 @@
 		{
 			out.println("취미없음");
 		}
-		%>
+		%>   
 		 <br><br>
 	본인소개 : <%= m_intro %> <br><br>
 </body>
